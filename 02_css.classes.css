@@ -1,0 +1,12 @@
+body {
+	background-color: #70d399;
+}
+
+.bronze-box {
+	background-color: grey;
+	border: 10px solid blue;
+}
+
+.silver-list {
+	color: aqua;
+}
